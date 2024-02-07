@@ -18,7 +18,7 @@
 ###### 4. Após a criação do Azure Ai Service, acessei o Vision Studio, através da URL "https://portal.vision.cognitive.azure.com".
 ###### 5. Após o login no Vision Studio, foi selecionada o Resource para poder iniciar a análise das imagens. Todos os inputs e outputs estão respectivamente na pasta "inputs" e "output" no repositório.
 ###### 6. A primeira análise realizada foi a análise de Face, utilizando a imagem encontrada no "input 1". Segue abaixo a imagem utilizada e o resultado da análise:
-[![input 1](https://github.com/dmtz1989/desafioGenerativeAIAzureML/blob/main/inputs/input%201.jpg)]
+![input 1](https://github.com/dmtz1989/desafioGenerativeAIAzureML/blob/main/inputs/input%201.jpg)
 
     Face #1
     Face mask: no
@@ -46,7 +46,7 @@
 
 ###### 7. Para a segunda análise, foi realizada a Extração de texto com Imagem, utilizando a imagem do "input 2", com os resultados mostrados abaixo: 
 
-[![input 2](https://github.com/dmtz1989/desafioGenerativeAIAzureML/blob/main/inputs/Input%202.jpg)]
+![input 2](https://github.com/dmtz1989/desafioGenerativeAIAzureML/blob/main/inputs/Input%202.jpg)
 
     UniversidadeFederalRuraldePernambuco
     LicenciaturaPlenaemComputação
@@ -84,7 +84,7 @@
 
 ###### 8. Para última análise, foi realizada a análise de Adição de Legenda as Imagens. Foi utilizado a imagem do "input 3", e o resultado foi:
 
-[![input 3](https://github.com/dmtz1989/desafioGenerativeAIAzureML/blob/main/inputs/Input%203.jpg)]
+![input 3](https://github.com/dmtz1989/desafioGenerativeAIAzureML/blob/main/inputs/Input%203.jpg)
 
     A group of people in clothing
     
