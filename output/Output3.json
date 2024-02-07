@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "60d97dd4-3487-489d-892f-b692e5d38a3a",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of people in clothing",
+    "confidence": 0.8178871870040894
+  },
+  "metadata": {
+    "width": 1800,
+    "height": 4000
+  }
+}
